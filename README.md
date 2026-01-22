@@ -46,10 +46,6 @@ Commitment to delivering high-quality products on time
 
 🌐 Website: https://niblox.org
 
-📧 Email: hello@niblox.org
-
-📍 Location: Pakistan (serving global clients)
-
-🏷 Topics / Keywords (for GitHub SEO)
+🏷 Topics
 
 software-development, ai-development, web-development, saas, custom-software, mvp, react, nextjs, angular, nodejs, machine-learning, automation, dashboard, enterprise-software
